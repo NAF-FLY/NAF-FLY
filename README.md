@@ -13,7 +13,7 @@
 
  ---
  
-### :man_technologist: About Me :
+### :man_technologist: About Me
 Начинающий frontend-разработчик из Москвы ⭐
 
 Всё свое время посвящаю обучению и самосовершенствованию 🎯
@@ -23,7 +23,7 @@
 - фотография 📸
 - айти и веб 💻
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="ReactJs" alt="ReactJs" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
