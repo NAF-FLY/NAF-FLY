@@ -14,14 +14,13 @@
  ---
  
 ### :man_technologist: About Me
-Начинающий frontend-разработчик из Москвы ⭐
+I am a Frontend developer from Moscow
 
-Всё свое время посвящаю обучению и самосовершенствованию 🎯
-#### Увлечения:
-- айти и веб 💻
-- спорт 🏋️‍♀️
-- прошивка мобильных телефонов 🧑‍🔧
-- фотография 📸
+💻 I’m working on creating websites
+
+🔭 Every day explore new things and hone my skills
+
+🏝️ I like to travel, learn languages and do pet projects in my free time
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
