@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/Oj__nQJe8gEAAAAd/explaining-meme.gif" width="220"/>
 </div>
 <div id="badges">
-  <a href="https://t.me/vpatsyuk">
+  <a href="https://t.me/crawly_dev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/v_patsyuk">
